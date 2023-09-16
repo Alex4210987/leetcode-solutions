@@ -1,2 +1,5 @@
-*.vscode
-*.idea
+#ignore the .vscode and .idea folders
+*/.vscode/*
+*/.idea/*
+#ignore the .gitignore file
+!.gitignore
